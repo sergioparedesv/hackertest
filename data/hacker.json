@@ -4,6 +4,7 @@
     "type": "White Hat",
     "alias": "El Ingeniero Ético",
     "image": "assets/images/katie_moussouris.jpg",
+    "image": "assets/images/katie-moussouris.jpg",
     "description": "Especialista en seguridad responsable y creadora de programas de bug-bounty; le entusiasma romper sistemas para fortalecerlos y colabora con empresas y gobiernos de forma pragmática y diplomática."
   },
   {
@@ -11,6 +12,7 @@
     "type": "Grey Hat",
     "alias": "El Ilusionista Social",
     "image": "assets/images/kevin_mitnick_1990s.jpg",
+    "image": "assets/images/kevin-mitnick.jpg",
     "description": "Legendario ingeniero social de los años 80-90: guiado por la curiosidad y el reto intelectual de burlar controles; astuto, audaz y juguetón, coleccionaba secretos más que beneficios económicos."
   },
   {
@@ -18,6 +20,7 @@
     "type": "Black Hat",
     "alias": "El Mercenario Clandestino",
     "image": "assets/images/maksim_yakubets.jpg",
+    "image": "assets/images/maksim-yakubets.jpg",
     "description": "Líder de Evil Corp y operador de malware bancario; motivado por la ganancia y el poder, ambicioso, calculador y sin escrúpulos, dirige ataques sofisticados para obtener grandes sumas de dinero."
   },
   {
@@ -25,6 +28,7 @@
     "type": "Hacktivista",
     "alias": "El Justiciero Digital",
     "image": "assets/images/phineas_fisher.png",
+    "image": "assets/images/phineas_fisher.jpg",
     "description": "Filtró herramientas de espionaje y donó recompensas a causas sociales; idealista e ingenioso, actúa como un Robin Hood cibernético decidido a exponer abusos de poder y redistribuir información (y fondos)."
   },
   {
@@ -32,6 +36,7 @@
     "type": "Conspiranoico",
     "alias": "El Buscador de la Verdad Oculta",
     "image": "assets/images/gary_mckinnon.jpg",
+    "image": "assets/images/gary-mckinnon.jpg",
     "description": "Intruso del Pentágono en busca de datos sobre OVNIs; obsesivo y tenaz, cree que los secretos gubernamentales deben salir a la luz y se arriesga a consecuencias legales por desvelar lo que considera la verdad."
   },
   {
@@ -39,6 +44,8 @@
     "type": "Script Kiddie",
     "alias": "El Aprendiz Impulsivo",
     "image": "assets/images/jonathan_james.jpg",
+    "image": "assets/images/jonathan-james.jpg",
     "description": "Con apenas 15 años infiltró sistemas de la NASA usando herramientas ajenas; impulsivo y autodidacta, busca la adrenalina y el reconocimiento rápido antes que la profundidad técnica o un ideal ético claro."
   }
 ]
+
