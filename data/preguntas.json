@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Encuentras un 0-day que afecta a millones de routers domésticos. ¿Cuál es tu primer paso?",
+    "answers": [
+      "Aviso al fabricante y preparo un informe técnico.",
+      "Guardo el exploit para estudiarlo; quizás lo revele más tarde.",
+      "Lo pongo a la venta en un foro clandestino.",
+      "Libero el exploit si la empresa se niega a parchear, como presión pública.",
+      "Busco indicios de que el fallo se diseñó a propósito para espiar a la gente.",
+      "Lo pruebo de inmediato en el router de mi vecino, ¡solo por diversión!"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Te ofrecen acceso a un servidor gubernamental con credenciales robadas. ¿Qué haces?",
+    "answers": [
+      "Rechazo la oferta y la reporto al CERT nacional.",
+      "Entro solo para curiosear, sin alterar nada.",
+      "Instalo una puerta trasera y exfiltro todo lo rentable.",
+      "Busco documentos que prueben abusos y los filtro a la prensa.",
+      "Rastrearé cualquier archivo sobre OVNIs o tecnología secreta.",
+      "Acepto, hago un defacement con mi alias y me voy riendo."
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Una ONG pequeña te pide auditar gratis su web. Tu respuesta:",
+    "answers": [
+      "Acepto: es una buena causa y una práctica legítima.",
+      "Acepto, pero si encuentro algo jugoso quizá lo almacene para más tarde.",
+      "Solo si luego puedo revender sus datos a un competidor.",
+      "Acepto y, si descubro algo serio, lo publicaré para forzar transparencia.",
+      "Acepto… siempre que me dejen buscar referencias a experimentos encubiertos.",
+      "No me interesa; prefiero algo con más notoriedad inmediata."
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Te topas con una base de datos de tarjetas de crédito mal protegida:",
+    "answers": [
+      "Contacto al responsable y lo ayudo a asegurarla antes de que sea tarde.",
+      "Descargo una copia encriptada «por si acaso» y borro mis huellas.",
+      "Vendo la base de datos en la dark-web y cobro en cripto.",
+      "Publico un resumen anonimizando víctimas para denunciar la negligencia.",
+      "Reviso si hay pagos sospechosos que demuestren lavado de dinero gubernamental.",
+      "Subo un sample a Pastebin para presumir y ver cuántos retuits consigo."
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Te ganas 50 000 US$ en un bug bounty. ¿Qué haces con el dinero?",
+    "answers": [
+      "Reinvierto en formación y certificaciones de seguridad.",
+      "Financio mi laboratorio casero y compro hardware para nuevas pruebas.",
+      "Me mudo a un país sin extradición y vivo a lo grande.",
+      "Dono una parte a un proyecto de software libre pro-privacidad.",
+      "Apoyo a periodistas que investigan encubrimientos militares.",
+      "Montaré un rig gamer épico y alardearé en streams."
+    ]
+  },
+  {
+    "id": 6,
+    "question": "El regulador lanza un CTF nacional con premio simbólico. Tu reacción:",
+    "answers": [
+      "Participo: buen ejercicio de responsabilidad social.",
+      "Participo, pero uso la ocasión para mapear su infraestructura real.",
+      "Ignoro el CTF; no paga lo suficiente para mí.",
+      "Lo uso como plataforma para dar un discurso sobre derechos digitales.",
+      "Investigo si el CTF oculta un reclutamiento encubierto del gobierno.",
+      "Entro con un script prehecho; si gano, genial, si no, también."
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Descubres que una big-tech espía a activistas mediante spyware móvil:",
+    "answers": [
+      "Les notifico formalmente y ayudo a cerrar la brecha.",
+      "Colecciono muestras del spyware para futuras charlas.",
+      "Busco un exploit de cadena y les exijo un rescate.",
+      "Extraigo las pruebas y las libero junto a un how-to para desinstalarlo.",
+      "Seguro hay un acuerdo secreto con agencias; lo demostraré filtrando correos.",
+      "Hago un video en TikTok mostrando cómo infectar un móvil «por ciencia»."
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Alguien te pide que hackees la cuenta de su expareja «por venganza».",
+    "answers": [
+      "Rechazo de plano y le recomiendo terapia.",
+      "No acepto, pero anoto el vector de ataque: podría servir en otro contexto.",
+      "Cobro por adelantado y ejecuto el job sin remordimientos.",
+      "Le explico que eso es abuso y ofrezco guías de privacidad en línea.",
+      "Me pregunto si hay algo más turbio detrás; podría exponerlo.",
+      "Acepto solo para bromear cambiando su foto de perfil por memes."
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Vas a una conferencia de ciberseguridad. ¿Qué charla eliges primero?",
+    "answers": [
+      "Respuesta coordinada a incidentes y divulgación responsable.",
+      "Técnicas avanzadas de pivoting en entornos aislados.",
+      "Monetización de botnets y ransomware-as-a-service.",
+      "Hacking para el cambio social y periodismo de filtraciones.",
+      "Forense en casos de fenómenos aéreos no identificados.",
+      "Exploits fáciles con metasploit para principiantes."
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Si pudieras tener un súper-poder hacker, ¿cuál escogerías?",
+    "answers": [
+      "Capacidad de detectar y parchear vulnerabilidades al instante.",
+      "Acceso ilimitado y anónimo solo para observar cualquier sistema.",
+      "Control remoto de miles de cajeros automáticos para vaciarlos.",
+      "Un canal cifrado global para exponer abusos en tiempo real.",
+      "Lectura telepática de archivos clasificados sobre vida extraterrestre.",
+      "Pulsar un botón y que todos los semáforos se pongan en verde ‘por los lols’."
+    ]
+  }
+]
